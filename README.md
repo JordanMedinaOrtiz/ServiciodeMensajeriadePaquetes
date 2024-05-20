@@ -1,5 +1,5 @@
 <h1 align="center">Proyecto de Servicio de Mensajería de Paquetes</h1>
-<p>Este proyecto final de Física 2 se centra en el tema de capacitancia y ha sido desarrollado con el propósito de brindar ayuda y recursos adicionales a estudiantes y entusiastas de la física. La página web ofrece una plataforma interactiva para explorar conceptos clave relacionados con la capacitancia, utilizando tecnologías web modernas como HTML, CSS, JavaScript y Astro.</p>
+<p>Este proyecto final para la materia de Programación 3 se desarrolló para proporcionar un sistema completo de gestión de servicios de mensajería de paquetes. Fue implementado utilizando Java y varias bibliotecas externas para conectar a una base de datos SQL, generar reportes en PDF, gráficos, archivos Excel, mejorar la interfaz de usuario (UI) y agregar un mapa mediante una API.</p>
 <hr>
 <h1 align="center">Tecnologías Utilizadas</h1>
 <div align="center">
@@ -12,15 +12,20 @@
 <hr>
 <h1 align="center">Características Destacadas</h1>
 <ul>
-  <li><b>Interactividad:</b> La página ofrece elementos interactivos que permiten a los usuarios experimentar con diferentes configuraciones y parámetros relacionados con la capacitancia.</li>
-  <li><b>Presentación Visual:</b> Utilización de CSS para mejorar la presentación visual del contenido, haciendo que la información sea más atractiva y fácil de entender.</li>
-  <li><b>Funcionalidades Avanzadas con Astro:</b> Integración de la biblioteca Astro para proporcionar funcionalidades avanzadas relacionadas con la simulación de fenómenos astronómicos y cálculos específicos.</li>
+  <li><b>Programación Orientada a Objetos (POO):</b> Aplicación de los pilares de POO como abstracción, encapsulación, herencia y polimorfismo.</li>
+  <li><b>Manejo de Bases de Datos:</b> Conexión e interacción con una base de datos SQL para almacenar y gestionar la información.</li>
+  <li><b>Generación de Archivos:</b> Capacidad de crear archivos PDF y Excel para reportes y gráficos.</li>
+  <li><b>Interfaz Gráfica de Usuario (GUI):</b> Diseño intuitivo y amigable para la presentación y manejo de datos.</li>
+  <li><b>Integración de API:</b> Uso de una API para agregar funcionalidades avanzadas, como la visualización de mapas.</li>
+  <li><b>Manejo de Excepciones y Hilos:</b> Implementación de excepciones personalizadas y manejo de múltiples hilos para mejorar la robustez y eficiencia del sistema.</li>
 </ul>
 <hr>
 <h1 align="center">Objetivos del Proyecto</h1>
 <ul>
-  <li>Proporcionar una plataforma interactiva para explorar y comprender los conceptos de capacitancia de manera más efectiva.</li>
-  <li>Hacer que el contenido sea accesible para un amplio público interesado en la física, incluyendo estudiantes, educadores y entusiastas.</li>
-  <li>Ofrecer herramientas prácticas y recursos adicionales que complementen la enseñanza tradicional de la física.</li>
+  <li>Aplicar los fundamentos de programación orientada a objetos mediante el desarrollo de un sistema real.</li>
+  <li>Crear un sistema que permita registrar, consultar, modificar y entregar paquetes de manera eficiente.</li>
+  <li>Facilitar la asignación y seguimiento de paquetes a los empleados responsables de las entregas.</li>
+  <li>Proveer herramientas para la creación de reportes detallados en PDF y Excel para la toma de decisiones y análisis de datos.</li>
+  <li>Utilizar APIs y bibliotecas externas para agregar funcionalidades avanzadas y mejorar la experiencia del usuario.</li>
 </ul>
 <hr>
